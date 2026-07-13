@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EDA Dashboard
 
 Turn raw tabular data into insights in minutes. Upload a CSV and get automatic
@@ -68,3 +69,7 @@ Key Insights tab has real signal to surface. Regenerate or modify it with
   (e.g. anomaly detection, forecasting) once you have a specific use case
 - Add a database/API data source alongside file upload
 - Add export (PDF/PNG) of charts and the insights list
+=======
+# Insight-Lens-Automated-EDA-Dashboard-
+Interactive EDA dashboard that auto-profiles any CSV, surfaces rule-based insights, and generates downloadable PDF reports — built with Python, Pandas, Streamlit, and Plotly.
+>>>>>>> f9c13e0c1eeef87b51a0f63d7dcb81a58ca29069
